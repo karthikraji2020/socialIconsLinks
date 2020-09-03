@@ -1,0 +1,19 @@
+{
+  "name": "social-icon-link",
+  "version": "1.0.0",
+  "description": "Get social Icons Links for Your Website or Web Application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikraji2020/socialIconsLinks.git"
+  },
+  "author": "Karthik Raji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthikraji2020/socialIconsLinks/issues"
+  },
+  "homepage": "https://github.com/karthikraji2020/socialIconsLinks#readme"
+}
